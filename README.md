@@ -1,13 +1,7 @@
 
 ## Description
 # RandomCoffee
-Script taht will be make pairs for employees conversation
-
-Online store project, based on `Django`.
-In this project you will see the following technologies:
-```
-pandas==1.3.0
-```
+Script that will be make pairs for employees conversation
 ## Installation
 
 Firslty you need to install package manager [pip](https://pip.pypa.io/en/stable/) and then use 
